@@ -1,0 +1,11 @@
+Archivos=ch130.tsp pr144.tsp d15112.tsp
+Semillas=20887601 8876012 88760120
+MaxIteraciones=10000
+MaxDuracion=600
+TamPoblacion=10
+alfa=1
+beta=2
+q0=95
+p=10
+fi=10
+inicialMatrizFeromonas=100
